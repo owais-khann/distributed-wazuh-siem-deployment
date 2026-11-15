@@ -18,4 +18,4 @@ The environment separates core SIEM components across three dedicated Linux node
 * Full step-by-step deployment guide with terminal verification outputs: **[Wazuh_Installation_Guide.pdf](./Wazuh_Installation_Guide.pdf)**
 
 ---
-**Author:** Owais Khan | [LinkedIn](www.linkedin.com/in/owais-khan-953089376)
+**Author:** Owais Khan | [LinkedIn](https://www.linkedin.com/in/owais-khan-953089376)
